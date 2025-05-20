@@ -1,4 +1,12 @@
-import { GrandFinalType, Match, MatchGame, Participant, Result, Stage } from 'brackets-model';
+import { GrandFinalType, Match as BaseMatch, MatchGame, Participant, Result, Stage } from 'brackets-model';
+
+// Extend the Match interface to include metadata
+export interface Match extends BaseMatch {
+    metadata?: {
+        original_match_id: string;
+        [key: string]: any;
+    };
+}
 
 export interface ConvertResult {
     database: Database,

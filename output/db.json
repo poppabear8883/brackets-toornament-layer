@@ -55,6 +55,9 @@
                 "id": 1,
                 "score": 8,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067699486727"
             }
         },
         {
@@ -72,6 +75,9 @@
             "opponent2": {
                 "id": 3,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067699486730"
             }
         },
         {
@@ -89,6 +95,9 @@
             "opponent2": {
                 "id": 3,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067699486734"
             }
         },
         {
@@ -108,6 +117,9 @@
                 "id": 2,
                 "score": 16,
                 "result": "win"
+            },
+            "metadata": {
+                "original_match_id": "4469575067699486737"
             }
         },
         {
@@ -127,6 +139,9 @@
                 "id": 2,
                 "score": 15,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067699486741"
             }
         },
         {
@@ -144,6 +159,9 @@
             "opponent2": {
                 "id": 1,
                 "result": "win"
+            },
+            "metadata": {
+                "original_match_id": "4469575067699486744"
             }
         },
         {
@@ -163,6 +181,9 @@
                 "id": 5,
                 "score": 0,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067699486754"
             }
         },
         {
@@ -182,6 +203,9 @@
                 "id": 7,
                 "score": 7,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067699486757"
             }
         },
         {
@@ -201,6 +225,9 @@
                 "id": 7,
                 "score": 4,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067699486761"
             }
         },
         {
@@ -220,6 +247,9 @@
                 "id": 6,
                 "score": 16,
                 "result": "win"
+            },
+            "metadata": {
+                "original_match_id": "4469575067699486764"
             }
         },
         {
@@ -239,6 +269,9 @@
                 "id": 6,
                 "score": 1,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041200"
             }
         },
         {
@@ -256,6 +289,9 @@
             "opponent2": {
                 "id": 5,
                 "forfeit": true
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041203"
             }
         },
         {
@@ -271,6 +307,9 @@
             },
             "opponent2": {
                 "id": null
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041213"
             }
         },
         {
@@ -290,6 +329,9 @@
                 "id": 10,
                 "score": 7,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041216"
             }
         },
         {
@@ -309,6 +351,9 @@
                 "id": 10,
                 "score": 3,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041220"
             }
         },
         {
@@ -324,6 +369,9 @@
             },
             "opponent2": {
                 "id": 9
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041223"
             }
         },
         {
@@ -343,6 +391,9 @@
                 "id": 9,
                 "score": 3,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041227"
             }
         },
         {
@@ -358,6 +409,9 @@
             },
             "opponent2": {
                 "id": null
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041230"
             }
         },
         {
@@ -373,6 +427,9 @@
             },
             "opponent2": {
                 "id": null
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041240"
             }
         },
         {
@@ -392,6 +449,9 @@
                 "id": 13,
                 "score": 25,
                 "result": "win"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041243"
             }
         },
         {
@@ -407,6 +467,9 @@
             },
             "opponent2": {
                 "id": 13
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041247"
             }
         },
         {
@@ -422,6 +485,9 @@
             },
             "opponent2": {
                 "id": 12
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041250"
             }
         },
         {
@@ -437,6 +503,9 @@
             },
             "opponent2": {
                 "id": 12
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041254"
             }
         },
         {
@@ -452,6 +521,9 @@
             },
             "opponent2": {
                 "id": null
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041257"
             }
         },
         {
@@ -467,6 +539,9 @@
             },
             "opponent2": {
                 "id": 14
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041267"
             }
         },
         {
@@ -486,6 +561,9 @@
                 "id": 16,
                 "score": 16,
                 "result": "win"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041270"
             }
         },
         {
@@ -501,6 +579,9 @@
             },
             "opponent2": {
                 "id": 16
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041274"
             }
         },
         {
@@ -520,6 +601,9 @@
                 "id": 15,
                 "score": 16,
                 "result": "win"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041277"
             }
         },
         {
@@ -535,6 +619,9 @@
             },
             "opponent2": {
                 "id": 15
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041281"
             }
         },
         {
@@ -554,6 +641,9 @@
                 "id": 14,
                 "score": 14,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041284"
             }
         },
         {
@@ -573,6 +663,9 @@
                 "id": 18,
                 "score": 16,
                 "result": "win"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041294"
             }
         },
         {
@@ -590,6 +683,9 @@
             "opponent2": {
                 "id": 20,
                 "result": "win"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041297"
             }
         },
         {
@@ -609,6 +705,9 @@
                 "id": 20,
                 "score": 16,
                 "result": "win"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041301"
             }
         },
         {
@@ -626,6 +725,9 @@
             "opponent2": {
                 "id": 19,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041304"
             }
         },
         {
@@ -643,6 +745,9 @@
             "opponent2": {
                 "id": 19,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041308"
             }
         },
         {
@@ -662,6 +767,9 @@
                 "id": 18,
                 "score": 11,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041311"
             }
         },
         {
@@ -681,6 +789,9 @@
                 "id": 22,
                 "score": 7,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041321"
             }
         },
         {
@@ -700,6 +811,9 @@
                 "id": 24,
                 "score": 5,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041324"
             }
         },
         {
@@ -719,6 +833,9 @@
                 "id": 24,
                 "score": 8,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041328"
             }
         },
         {
@@ -738,6 +855,9 @@
                 "id": 23,
                 "score": 16,
                 "result": "win"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041331"
             }
         },
         {
@@ -757,6 +877,9 @@
                 "id": 23,
                 "score": 16,
                 "result": "win"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041335"
             }
         },
         {
@@ -776,6 +899,9 @@
                 "id": 22,
                 "score": 5,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041338"
             }
         },
         {
@@ -795,6 +921,9 @@
                 "id": 26,
                 "score": 4,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041348"
             }
         },
         {
@@ -814,6 +943,9 @@
                 "id": 28,
                 "score": 12,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041351"
             }
         },
         {
@@ -833,6 +965,9 @@
                 "id": 28,
                 "score": 14,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041355"
             }
         },
         {
@@ -852,6 +987,9 @@
                 "id": 27,
                 "score": 16,
                 "result": "win"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041358"
             }
         },
         {
@@ -871,6 +1009,9 @@
                 "id": 27,
                 "score": 3,
                 "result": "loss"
+            },
+            "metadata": {
+                "original_match_id": "4469575067733041362"
             }
         },
         {
@@ -890,1212 +1031,9 @@
                 "id": 26,
                 "score": 10,
                 "result": "loss"
-            }
-        },
-        {
-            "id": 48,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 24,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 0,
-                "score": 1,
-                "result": "win"
             },
-            "opponent2": {
-                "id": 21,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 49,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 25,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 1,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 50,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 25,
-            "number": 2,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 22,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 51,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 24,
-            "number": 2,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 25,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 6,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 52,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 24,
-            "number": 3,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 13,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 18,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 53,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 25,
-            "number": 3,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 17,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 54,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 24,
-            "number": 4,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 16,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 9,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 55,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 25,
-            "number": 4,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 28,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 56,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 24,
-            "number": 5,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 4,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 27,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 57,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 25,
-            "number": 5,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 7,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 58,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 24,
-            "number": 6,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 23,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 2,
-                "score": 1,
-                "result": "win"
-            }
-        },
-        {
-            "id": 59,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 25,
-            "number": 6,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 26,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 60,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 25,
-            "number": 7,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 14,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 61,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 24,
-            "number": 7,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 8,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 15,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 62,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 24,
-            "number": 8,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 20,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 12,
-                "score": 1,
-                "result": "win"
-            }
-        },
-        {
-            "id": 63,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 25,
-            "number": 8,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 24,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 64,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 26,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 1,
-                "position": 1,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 22,
-                "position": 2,
-                "score": 2,
-                "result": "win"
-            }
-        },
-        {
-            "id": 65,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 27,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 0,
-                "position": 1,
-                "score": 1,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 25,
-                "position": 2,
-                "score": 2,
-                "result": "win"
-            }
-        },
-        {
-            "id": 66,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 26,
-            "number": 2,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 17,
-                "position": 3,
-                "score": 2,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 28,
-                "position": 4,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 67,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 27,
-            "number": 2,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 13,
-                "position": 3,
-                "score": 1,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 16,
-                "position": 4,
-                "score": 2,
-                "result": "win"
-            }
-        },
-        {
-            "id": 68,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 27,
-            "number": 3,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 4,
-                "position": 5,
-                "score": 2,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 2,
-                "position": 6,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 69,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 26,
-            "number": 3,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 7,
-                "position": 5,
-                "score": 2,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 26,
-                "position": 6,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 70,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 26,
-            "number": 4,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 14,
-                "position": 7,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 24,
-                "position": 8,
-                "score": 2,
-                "result": "win"
-            }
-        },
-        {
-            "id": 71,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 27,
-            "number": 4,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 8,
-                "position": 7,
-                "score": 2,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 12,
-                "position": 8,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 72,
-            "stage_id": 1,
-            "group_id": 10,
-            "round_id": 28,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": null,
-                "position": 8,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "position": 7,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 73,
-            "stage_id": 2,
-            "group_id": 11,
-            "round_id": 29,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 20,
-                "position": 8,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 15,
-                "position": 7,
-                "score": 1,
-                "result": "win"
-            }
-        },
-        {
-            "id": 74,
-            "stage_id": 1,
-            "group_id": 10,
-            "round_id": 28,
-            "number": 2,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": null,
-                "position": 6,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "position": 5,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 75,
-            "stage_id": 2,
-            "group_id": 11,
-            "round_id": 29,
-            "number": 2,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 23,
-                "position": 6,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 27,
-                "position": 5,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 76,
-            "stage_id": 1,
-            "group_id": 10,
-            "round_id": 28,
-            "number": 3,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": null,
-                "position": 4,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "position": 3,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 77,
-            "stage_id": 2,
-            "group_id": 11,
-            "round_id": 29,
-            "number": 3,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 9,
-                "position": 4,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 18,
-                "position": 3,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 78,
-            "stage_id": 2,
-            "group_id": 11,
-            "round_id": 29,
-            "number": 4,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 6,
-                "position": 2,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 21,
-                "position": 1,
-                "score": 1,
-                "result": "win"
-            }
-        },
-        {
-            "id": 79,
-            "stage_id": 1,
-            "group_id": 10,
-            "round_id": 28,
-            "number": 4,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": null,
-                "position": 2,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "position": 1,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 80,
-            "stage_id": 1,
-            "group_id": 10,
-            "round_id": 30,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 28,
-                "position": 2,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "position": 1,
-                "forfeit": true
-            }
-        },
-        {
-            "id": 81,
-            "stage_id": 2,
-            "group_id": 11,
-            "round_id": 31,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 13,
-                "position": 2,
-                "forfeit": true
-            },
-            "opponent2": {
-                "id": 15,
-                "position": 1,
-                "result": "win"
-            }
-        },
-        {
-            "id": 82,
-            "stage_id": 2,
-            "group_id": 11,
-            "round_id": 31,
-            "number": 2,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 0,
-                "position": 1,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 23,
-                "position": 2,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 83,
-            "stage_id": 1,
-            "group_id": 10,
-            "round_id": 30,
-            "number": 2,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 1,
-                "position": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "position": 2,
-                "forfeit": true
-            }
-        },
-        {
-            "id": 84,
-            "stage_id": 2,
-            "group_id": 11,
-            "round_id": 31,
-            "number": 3,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 12,
-                "position": 4,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 9,
-                "position": 3,
-                "forfeit": true
-            }
-        },
-        {
-            "id": 85,
-            "stage_id": 1,
-            "group_id": 10,
-            "round_id": 30,
-            "number": 3,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 14,
-                "position": 4,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "position": 3,
-                "forfeit": true
-            }
-        },
-        {
-            "id": 86,
-            "stage_id": 1,
-            "group_id": 10,
-            "round_id": 30,
-            "number": 4,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 26,
-                "position": 3,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": null,
-                "position": 4,
-                "forfeit": true
-            }
-        },
-        {
-            "id": 87,
-            "stage_id": 2,
-            "group_id": 11,
-            "round_id": 31,
-            "number": 4,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 2,
-                "position": 3,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 21,
-                "position": 4,
-                "score": 1,
-                "result": "win"
-            }
-        },
-        {
-            "id": 88,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 32,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 25,
-                "position": 1,
-                "score": 2,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 16,
-                "position": 2,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 89,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 33,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 22,
-                "position": 1,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 17,
-                "position": 2,
-                "score": 2,
-                "result": "win"
-            }
-        },
-        {
-            "id": 90,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 32,
-            "number": 2,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 4,
-                "position": 3,
-                "score": 2,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 8,
-                "position": 4,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 91,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 33,
-            "number": 2,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 7,
-                "position": 3,
-                "score": 2,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 24,
-                "position": 4,
-                "score": 1,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 92,
-            "stage_id": 1,
-            "group_id": 10,
-            "round_id": 34,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 28,
-                "position": 1,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 1,
-                "position": 2,
-                "score": 1,
-                "result": "win"
-            }
-        },
-        {
-            "id": 93,
-            "stage_id": 2,
-            "group_id": 11,
-            "round_id": 35,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 15,
-                "position": 1,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 0,
-                "position": 2,
-                "score": 1,
-                "result": "win"
-            }
-        },
-        {
-            "id": 94,
-            "stage_id": 2,
-            "group_id": 11,
-            "round_id": 35,
-            "number": 2,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 12,
-                "position": 3,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 21,
-                "position": 4,
-                "score": 1,
-                "result": "win"
-            }
-        },
-        {
-            "id": 95,
-            "stage_id": 1,
-            "group_id": 10,
-            "round_id": 34,
-            "number": 2,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 14,
-                "position": 3,
-                "forfeit": true
-            },
-            "opponent2": {
-                "id": 26,
-                "position": 4,
-                "result": "win"
-            }
-        },
-        {
-            "id": 96,
-            "stage_id": 1,
-            "group_id": 10,
-            "round_id": 36,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 24,
-                "position": 2,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 1,
-                "position": 1,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 97,
-            "stage_id": 2,
-            "group_id": 11,
-            "round_id": 37,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 8,
-                "position": 2,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 0,
-                "position": 1,
-                "score": 1,
-                "result": "win"
-            }
-        },
-        {
-            "id": 98,
-            "stage_id": 2,
-            "group_id": 11,
-            "round_id": 37,
-            "number": 2,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 16,
-                "position": 1,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 21,
-                "position": 2,
-                "score": 1,
-                "result": "win"
-            }
-        },
-        {
-            "id": 99,
-            "stage_id": 1,
-            "group_id": 10,
-            "round_id": 36,
-            "number": 2,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 22,
-                "position": 1,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 26,
-                "position": 2,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 100,
-            "stage_id": 2,
-            "group_id": 8,
-            "round_id": 38,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 25,
-                "position": 1,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 4,
-                "position": 2,
-                "score": 2,
-                "result": "win"
-            }
-        },
-        {
-            "id": 101,
-            "stage_id": 1,
-            "group_id": 9,
-            "round_id": 39,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 17,
-                "position": 1,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 7,
-                "position": 2,
-                "score": 2,
-                "result": "win"
-            }
-        },
-        {
-            "id": 102,
-            "stage_id": 1,
-            "group_id": 10,
-            "round_id": 40,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 24,
-                "position": 1,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 22,
-                "position": 2,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 103,
-            "stage_id": 2,
-            "group_id": 11,
-            "round_id": 41,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 0,
-                "position": 1,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 21,
-                "position": 2,
-                "score": 1,
-                "result": "win"
-            }
-        },
-        {
-            "id": 104,
-            "stage_id": 2,
-            "group_id": 11,
-            "round_id": 42,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 25,
-                "position": 1,
-                "score": 1,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 21,
-                "position": 1,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 105,
-            "stage_id": 1,
-            "group_id": 10,
-            "round_id": 43,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 17,
-                "position": 1,
-                "score": 0,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 24,
-                "position": 1,
-                "score": 1,
-                "result": "win"
-            }
-        },
-        {
-            "id": 106,
-            "stage_id": 2,
-            "group_id": 12,
-            "round_id": 44,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 4,
-                "position": 1,
-                "score": 2,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 25,
-                "position": 1,
-                "score": 0,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 107,
-            "stage_id": 1,
-            "group_id": 13,
-            "round_id": 45,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 7,
-                "position": 1,
-                "score": 2,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 24,
-                "position": 1,
-                "score": 1,
-                "result": "loss"
+            "metadata": {
+                "original_match_id": "4469575067733041365"
             }
         }
     ],

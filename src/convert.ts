@@ -151,7 +151,7 @@ export function convertData(data: {
         });
     }
 
-    const participants: { [id: number]: Participant } = {};
+    const participants: { [id: string]: Participant } = {};
 
     const participantId = idFactory();
     const matchId = idFactory();
@@ -174,20 +174,23 @@ export function convertData(data: {
     }
 
     for (const match of data.matches) {
+        // Skip matches without opponents
+        if (!match.opponents) continue;
+
         const [id1, id2] = match.opponents.map(opponent => opponent.participant?.id !== undefined ? participantId(opponent.participant.id) : null);
 
         if (id1 !== null && match.opponents[0].participant) {
             const opponent1 = convertParticipant(id1, match.opponents[0].participant);
 
-            if (!participants[opponent1.id])
-                participants[opponent1.id] = opponent1;
+            if (!participants[opponent1.id.toString()])
+                participants[opponent1.id.toString()] = opponent1;
         }
 
         if (id2 !== null && match.opponents[1].participant) {
             const opponent2 = convertParticipant(id2, match.opponents[1].participant);
 
-            if (!participants[opponent2.id])
-                participants[opponent2.id] = opponent2;
+            if (!participants[opponent2.id.toString()])
+                participants[opponent2.id.toString()] = opponent2;
         }
 
         db.match.push({
@@ -200,6 +203,9 @@ export function convertData(data: {
             status: convertMatchStatus(match.status),
             opponent1: convertParticipantResult(id1, findSourcePosition(match.opponents[0]), match.opponents[0]),
             opponent2: convertParticipantResult(id2, findSourcePosition(match.opponents[1]), match.opponents[1]),
+            metadata: {
+                original_match_id: match.id,
+            },
         });
     }
 
